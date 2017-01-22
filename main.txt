@@ -1,0 +1,28 @@
+<html>
+  <head>
+
+
+    <meta charset="UTF-8"/>
+    
+    <title>DENEME2</title>
+  </head>
+  <body>
+<h1>Our Menu</h1>
+    <div id="box1">
+<div id="inBox">asd11</div>
+      <br/>
+      <b>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at dolor velit. Curabitur tortor eros, rutrum egestas tristique tristique, eleifend hendrerit ipsum. Pellentesque nec nisi bibendum, tempus metus at, egestas lacus. Proin blandit velit ac risus pellentesque mollis. Etiam at mauris justo. Nulla vel velit id sem dignissim mattis. </b>
+    </div>
+    <div id="box2">
+<div id="inBox">asdasd22</div>
+      <br>
+      <b>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at dolor velit. Curabitur tortor eros, rutrum egestas tristique tristique, eleifend hendrerit ipsum. Pellentesque nec nisi bibendum, tempus metus at, egestas lacus. Proin blandit velit ac risus pellentesque mollis. Etiam at mauris justo. Nulla vel velit id sem dignissim mattis.  </b>
+    </div>
+    <div id="box3">
+<div id="inBox">asd33</div>
+      <br>
+      <b>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at dolor velit. Curabitur tortor eros, rutrum egestas tristique tristique, eleifend hendrerit ipsum. Pellentesque nec nisi bibendum, tempus metus at, egestas lacus. Proin blandit velit ac risus pellentesque mollis. Etiam at mauris justo. Nulla vel velit id sem dignissim mattis. </b>
+    </div>
+    
+  </body>
+</html>
