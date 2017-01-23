@@ -6,7 +6,6 @@
 #container{
  
   width:99%;
-  border: 1px solid red;
   overflow: auto;
 }
 h1{
