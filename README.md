@@ -1,1 +1,1 @@
-asdasdasdasdasd
+https://huseyinorer.github.io/mod2/
