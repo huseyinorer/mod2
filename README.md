@@ -1,1 +1,1 @@
-https://huseyinorer.github.io/mod2/
+https://huseyinorer.github.io/responsive-desing-with-css-and-boxes/
